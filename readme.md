@@ -12,3 +12,6 @@ $ git add .
 $ git commit -m "<label>"
 
 $ git log
+
+$ git log --pretty=oneline
+
